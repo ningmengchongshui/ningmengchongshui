@@ -16,6 +16,7 @@
 #### GitHub status
 
 ![](https://github-readme-stats.vercel.app/api?username=CodeGetters)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeGetters)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://github-readme-activity-graph.cyclic.app/graph?username=CodeGetters&theme=github)
 
