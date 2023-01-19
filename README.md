@@ -11,7 +11,6 @@
 
 <a href="https://github.com/CodeGetters">
     <img align="right" src="https://count.getloli.com/get/@CodeGetters?theme=rule34" alt="Johnson Xin" />
-  <--! [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeGetters)](https://github.com/anuraghazra/github-readme-stats)-->
 </a>
 
 #### GitHub status
