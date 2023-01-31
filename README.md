@@ -21,7 +21,8 @@ blog：[![Blog](https://img.shields.io/badge/-Blog-07c160?logo=Micro.blog&logoCo
 
 #### GitHub status
 
-I spent my time on:
+**I spent my time on:**
+
 ![](https://github-readme-stats-zzy-eight.vercel.app/api/top-langs/?username=CodeGetters&layout=compact)
 
 ![](https://github-readme-stats.vercel.app/api?username=CodeGetters&show_icons=true&theme=tokyonight)
