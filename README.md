@@ -1,7 +1,3 @@
-[![bookmark.style](https://svg.bookmark.style/api?url=https://reday.asia&mode=dark&style=horizontal)](https://reday.asia)
-
-blog：[![Blog](https://img.shields.io/badge/-Blog-07c160?logo=Micro.blog&logoColor=black)](http://reday.asia)
-
 <h3>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势">
   Hi there I’m @Johnson Xin~
@@ -10,24 +6,31 @@ blog：[![Blog](https://img.shields.io/badge/-Blog-07c160?logo=Micro.blog&logoCo
         <li>🧑A Student</li>
         <li>🌱I'm trying to become a front-end engineer</li>
     </ul>
+    <a href="https://github.com/CodeGetters">
+      <img align="right" src="https://count.getloli.com/get/@CodeGetters?theme=rule34" alt="Johnson Xin" />
+    </a>
 </h3>
 
+blog：[![Blog](https://img.shields.io/badge/-Blog-07c160?logo=Micro.blog&logoColor=black)](http://reday.asia)
 
-<a href="https://github.com/CodeGetters">
-    <img align="right" src="https://count.getloli.com/get/@CodeGetters?theme=rule34" alt="Johnson Xin" />
-</a>
-
+[![bookmark.style](https://svg.bookmark.style/api?url=https://reday.asia&mode=dark&style=horizontal)](https://reday.asia)
 
 
-#### GitHub status
 
-**I spent my time on:**
 
-![](https://github-readme-stats-zzy-eight.vercel.app/api/top-langs/?username=CodeGetters&layout=compact)
+<details open>
+ <summary> 😇 <b>My Github Stats</b>: </summary>
+<br>
+<p align = "center">
 
-![](https://github-readme-stats.vercel.app/api?username=CodeGetters&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=CodeGetters&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-stats-zzy-eight.vercel.app/api/top-langs/?username=CodeGetters&layout=compact"/>
+
+</p>
 
 ![](https://github-readme-activity-graph.cyclic.app/graph?username=CodeGetters&theme=github)
+</details>
 
 
 #### languages and tools:
