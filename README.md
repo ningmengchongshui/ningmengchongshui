@@ -13,7 +13,7 @@
 
 blog：[![Blog](https://img.shields.io/badge/-Blog-07c160?logo=Micro.blog&logoColor=black)](http://reday.asia)
 
-[![bookmark.style](https://svg.bookmark.style/api?url=https://reday.asia&mode=dark&style=horizontal)](https://reday.asia)
+[![bookmark.style](https://svg.bookmark.style/api?url=https://blog.reday.asia&mode=dark&style=horizontal)](https://reday.asia)
 
 
 
