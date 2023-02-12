@@ -65,11 +65,11 @@
 <details open>
 <summary> <b>🔨 Project</b>：</summary>
 
-🎓 I am currently studying for a master's degree in mechanical and electronic engineering at NUAA.
+<!-- 🎓 I am currently studying for a master's degree in mechanical and electronic engineering at NUAA.
 
 🔬 My research topic is the optimal allocation of resources in industrial Internet cloud manufacturing.
 
-💻 The project involved is the development of **enterprise service station(ESS)** in cloud manufacturing.
+💻 The project involved is the development of **enterprise service station(ESS)** in cloud manufacturing. -->
 
 <table>
   <tr>
