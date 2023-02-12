@@ -84,7 +84,7 @@
   </tr>
   <tr>
     <td><a href="https://github.com/CodeGetter/NoneBot-JohnsonX"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CodeGetters&repo=NoneBot-JohnsonX&theme=buefy"></a></td>
-    <td>基于NoneBot和go-cqhttp实现的聊天机器人</td>
+    <td>Chatbot implemented based on NoneBot and go-cqhttp framework</td>
     <td><img src="https://img.shields.io/tokei/lines/github/CodeGetters/NoneBot-JohnsonX"> <img src="https://img.shields.io/github/last-commit/CodeGetters/NoneBot-JohnsonX"></td>
   </tr>
   <tr>
