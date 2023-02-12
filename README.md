@@ -90,7 +90,7 @@
   <tr>
     <td><a href=""><img src="https://github-readme-stats.vercel.app/api/pin/?username=CodeGetters&repo=blogs&theme=buefy"></a></td>
     <td>Personal blog site built on vuepress+vercel</td>
-    <td><img src="https://img.shields.io/tokei/lines/github/CodeGetters/blogs"> <img src="https://img.shields.io/github/last-commit/blogs"></td>
+    <td><img src="https://img.shields.io/tokei/lines/github/CodeGetters/blogs"> <img src="https://img.shields.io/github/last-commit/CodeGetters/blogs"></td>
   </tr>
 </table>
 </details>
