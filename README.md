@@ -78,17 +78,17 @@
     <th width="15%">Repo Info</th>
   </tr>
   <tr>
-    <td><a href="https://github.com/CodeGetter/wview"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CodeGetters&repo=wview&theme=buefy"></a></td>
+    <td><a href="https://github.com/CodeGetters/wview"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CodeGetters&repo=wview&theme=buefy"></a></td>
     <td>A lightweight, flexible & customizable UI library for Vue 3</td>
     <td><img src="https://img.shields.io/tokei/lines/github/CodeGetters/wview"> <img src="https://img.shields.io/github/last-commit/CodeGetters/wview"></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/CodeGetter/NoneBot-JohnsonX"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CodeGetters&repo=NoneBot-JohnsonX&theme=buefy"></a></td>
+    <td><a href="https://github.com/CodeGetters/NoneBot-JohnsonX"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CodeGetters&repo=NoneBot-JohnsonX&theme=buefy"></a></td>
     <td>Chatbot implemented based on NoneBot and go-cqhttp framework</td>
     <td><img src="https://img.shields.io/tokei/lines/github/CodeGetters/NoneBot-JohnsonX"> <img src="https://img.shields.io/github/last-commit/CodeGetters/NoneBot-JohnsonX"></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/CodeGetter/blogs"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CodeGetters&repo=blogs&theme=buefy"></a></td>
+    <td><a href="https://github.com/CodeGetters/blogs)"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CodeGetters&repo=blogs&theme=buefy"></a></td>
     <td>Personal blog site built on vuepress+vercel</td>
     <td><img src="https://img.shields.io/tokei/lines/github/CodeGetters/blogs"> <img src="https://img.shields.io/github/last-commit/CodeGetters/blogs"></td>
   </tr>
