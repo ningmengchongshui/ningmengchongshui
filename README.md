@@ -88,7 +88,7 @@
     <td><img src="https://img.shields.io/tokei/lines/github/CodeGetters/NoneBot-JohnsonX"> <img src="https://img.shields.io/github/last-commit/CodeGetters/NoneBot-JohnsonX"></td>
   </tr>
   <tr>
-    <td><a href=""><img src="https://github-readme-stats.vercel.app/api/pin/?username=CodeGetters&repo=blogs&theme=buefy"></a></td>
+    <td><a href="https://github.com/CodeGetter/blogs"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CodeGetters&repo=blogs&theme=buefy"></a></td>
     <td>Personal blog site built on vuepress+vercel</td>
     <td><img src="https://img.shields.io/tokei/lines/github/CodeGetters/blogs"> <img src="https://img.shields.io/github/last-commit/CodeGetters/blogs"></td>
   </tr>
