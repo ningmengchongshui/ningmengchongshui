@@ -2,17 +2,22 @@
 
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=CodeGetters&show_icons=true&theme=buefy">
 
-🙋‍♂️ I'm @CodeGetters~<img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="30" />
+🙋‍♂️ I'm
+@CodeGetters~<img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="30" />
 
 👀 Just like the name of my profile.
 
 ⚛️ I'm trying to improve my programming skills
 <br>
 <h4>
-    <a href="https://github.com/CodeGetters">
-      <img align="right" src="https://count.getloli.com/get/@CodeGetters?theme=rule34" alt="Johnson Xin" />
-    </a>
+<a href="https://github.com/CodeGetters">
+<img align="right" src="https://count.getloli.com/get/@CodeGetters?theme=rule34" alt="Johnson Xin" />
+</a>
 </h3>
+
+<br>
+
+<img src="./images/snk.svg" alt="snk">
 
 <br>
 
@@ -54,8 +59,8 @@
 <summary> <b>🏠 Blog</b>：</summary>
 
 <div align="center">
-    <a href="https://reday.asia"><img src="https://svg.bookmark.style/api?url=https://blog.reday.asia&mode=dark&style=horizontal" alt=""></a>
-  <a href="https://blog.reday.asia"><img src="http://cdn.reday.asia/img/202302121717150.jpg"></a>
+    <a href="https://reday.asia"><img src="https://svg.bookmark.style/api?url=https://reday.asia&mode=dark&style=horizontal" alt=""></a>
+  <a href="https://reday.asia"><img src="http://cdn.reday.asia/img/202302121717150.jpg"></a>
 </div>
 
 </details>
@@ -94,7 +99,6 @@
   </tr>
 </table>
 </details>
-
 
 
 [//]: # (blog：[![Blog]&#40;https://img.shields.io/badge/-Blog-07c160?logo=Micro.blog&logoColor=black&#41;]&#40;http://reday.asia&#41;)
