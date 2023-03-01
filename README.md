@@ -60,7 +60,7 @@
 
 <div align="center">
     <a href="https://reday.asia"><img src="https://svg.bookmark.style/api?url=https://reday.asia&mode=dark&style=horizontal" alt=""></a>
-  <a href="https://reday.asia"><img src="http://cdn.reday.asia/img/202302121717150.jpg"></a>
+  <a href="https://reday.asia"><img src="https://cdn.jsdelivr.net/gh/CodeGetters/mapDepot@main/images/home.png"></a>
 </div>
 
 </details>
