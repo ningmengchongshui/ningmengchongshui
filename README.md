@@ -17,7 +17,7 @@
 
 <br>
 
-<img src="./images/snk.svg" alt="snk">
+<img align="center" src="https://raw.githubusercontent.com/lyuly/lyuly/gh-pages/github-snake.svg"/>
 
 <br>
 
