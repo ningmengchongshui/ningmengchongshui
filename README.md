@@ -58,7 +58,7 @@
       </a>
       </td>
     <td>A lightweight, flexible & customizable UI library for Vue 3</td>
-    <td><img src="https://img.shields.io/tokei/lines/github/ningmengchongshui/wview"> <img src="https://img.shields.io/github/last-commit/ningmengchongshui/wview"></td>
+    <td><img src="https://img.shields.io/tokei/lines/github/ningmengchongshui/alemon-bot"> <img src="https://img.shields.io/github/last-commit/ningmengchongshui/wview"></td>
   </tr>
  
 </table>
