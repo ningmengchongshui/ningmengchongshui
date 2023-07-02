@@ -2,21 +2,13 @@
 
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=ningmengchongshui&show_icons=true&theme=buefy">
 
-<img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="30" /> I'm
-@ningmengchongshui
+I'm @ningmengchongshui <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="30" /> 
 
-⚛️ I'm trying to improve my programming skills
-<br>
-
-<h4>
-
-</h3>
+I'm trying to improve my programming skills
 
 <br>
 
 <img align="center" src="https://raw.githubusercontent.com/lyuly/lyuly/gh-pages/github-snake.svg"/>
-
-<br>
 
 <details open>
 <summary> <b>🖥️ Code</b>：</summary>
@@ -36,16 +28,13 @@
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?logo=MySQL&logoColor=white" />
   <img alt="Markdown" src="https://img.shields.io/badge/-Markdown-000000?logo=Markdown&logoColor=white" />
-
 </p>
-
 </details>
 
 <br>
 
 <details open>
 <summary> <b>🔨 Project</b>：</summary>
-
 <table>
   <tr>
     <th width="40%">Project</th>
@@ -54,12 +43,11 @@
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/ningmengchongshui/wview"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ningmengchongshui&repo=wview&theme=buefy">
+      <a href="https://github.com/ningmengchongshui/alemon-bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ningmengchongshui&repo=wview&theme=buefy">
       </a>
       </td>
-    <td>A lightweight, flexible & customizable UI library for Vue 3</td>
-    <td><img src="https://img.shields.io/tokei/lines/github/ningmengchongshui/alemon-bot"> <img src="https://img.shields.io/github/last-commit/ningmengchongshui/wview"></td>
+    <td>Channel Robot Development Framework</td>
+    <td><img src="https://img.shields.io/tokei/lines/github/ningmengchongshui/wview"> <img src="https://img.shields.io/github/last-commit/ningmengchongshui/wview"></td>
   </tr>
- 
 </table>
 </details>
