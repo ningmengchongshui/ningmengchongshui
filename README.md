@@ -8,7 +8,6 @@ I'm trying to improve my programming skills
 
 <br>
 
-<img align="center" src="https://raw.githubusercontent.com/lyuly/lyuly/gh-pages/github-snake.svg"/>
 
 <details open>
 <summary> <b>🖥️ Code</b>：</summary>
