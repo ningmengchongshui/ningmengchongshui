@@ -31,22 +31,3 @@ I'm trying to improve my programming skills
 </details>
 
 <br>
-
-<details open>
-<summary> <b>🔨 Project</b>：</summary>
-<table>
-  <tr>
-    <th width="40%">Project</th>
-    <th width="45%">Introduction</th>
-    <th width="15%">Repo Info</th>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/ningmengchongshui/alemon-bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ningmengchongshui&repo=wview&theme=buefy">
-      </a>
-      </td>
-    <td>Channel Robot Development Framework</td>
-    <td><img src="https://img.shields.io/tokei/lines/github/ningmengchongshui/wview"> <img src="https://img.shields.io/github/last-commit/ningmengchongshui/wview"></td>
-  </tr>
-</table>
-</details>
